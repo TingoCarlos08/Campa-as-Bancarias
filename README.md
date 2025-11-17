@@ -100,23 +100,3 @@ El **contacto por celular** tiene una **tasa de aceptación más alta** comparad
 2. **Priorizar el contacto por celular**, ya que es **más efectivo** que el teléfono fijo.
 3. **Reducir el número de intentos de contacto**, manteniendo un máximo de 2–3 intentos.
 4. **Aumentar la duración de las llamadas**, ya que las llamadas más largas están asociadas con una mayor tasa de aceptación.
-
----
-
-## 10. Cierre
-
-Este análisis proporciona una **visión clara del perfil del cliente ideal** y cómo podemos **optimizar las campañas** para aumentar la **eficacia** de las ofertas bancarias. Gracias a estos **hallazgos** podemos tomar **decisiones informadas** para **mejorar las tasas de aceptación**.
-
----
-
-### **Instrucciones para incluir las imágenes:**
-
-1. **Sube todas las imágenes a tu repositorio de GitHub.**
-2. **Copia las URLs de las imágenes** (puedes hacerlo en la vista previa de GitHub).
-3. **Reemplaza `ruta/a/tu/imagenX.png`** en cada sección por la **URL de la imagen**.
-
----
-
-Con este formato de **Markdown**, tu proyecto será **claro, bien estructurado y visualmente atractivo**. Te permitirá **explicar el análisis de manera efectiva**, mostrando tanto los **gráficos** como las **conclusiones** de cada análisis.
-
-Si necesitas algún ajuste o más detalles para agregar, ¡avísame!
